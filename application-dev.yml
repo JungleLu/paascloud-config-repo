@@ -67,8 +67,6 @@ spring:
   zipkin:
     rabbitmq:
       queue: zipkin
-      username: paas
-      password: paas
   sleuth:
     sampler:
       percentage: 0.2
