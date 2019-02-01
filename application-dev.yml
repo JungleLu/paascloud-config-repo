@@ -66,6 +66,8 @@ spring:
       password: admin
   zipkin:
     rabbitmq:
+      username: paas
+      password: paas
       queue: zipkin
   sleuth:
     sampler:
